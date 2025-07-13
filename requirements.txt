@@ -1,0 +1,11 @@
+streamlit
+torch
+numpy
+opencv-python
+transformers
+optimum[openvino]
+pdfplumber
+deep-translator
+speechrecognition
+pyaudio
+deepface
